@@ -2,4 +2,4 @@ sistem pengenalan bahasa isyarat abjad untuk mengklasifikasikan peragaan bahasa 
 Dataset dibuat dengan american sign language alfabet A-Z.
 Model yang dipakai adalah MobileNetV2. MobileNetV2 adalah arsitektur model neural network yang dirancang khusus untuk keperluan pengolahan citra di perangkat mobile atau berkinerja rendah. Model ini dikenal efisien dan ringan sehingga sangat cocok untuk aplikasi di perangkat mobile. 
 Berikut tampilan aplikasi : 
-![Tampilan Aplikasi](images/image.png)
+![Tampilan Aplikasi](image.png)
